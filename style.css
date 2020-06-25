@@ -1,0 +1,10 @@
+.col-md-4{
+	align-content: center;
+	border:2px black solid;
+	padding:5px;
+	border-radius: 10px;
+	background-color:lightgrey;
+}
+#down{
+	display: inline;
+}
